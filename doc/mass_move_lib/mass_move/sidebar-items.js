@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["find_existing_file","mass_move"]};

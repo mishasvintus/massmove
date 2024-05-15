@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["build_by_target_pattern","mass_move","search_by_pattern","string_pattern"]};

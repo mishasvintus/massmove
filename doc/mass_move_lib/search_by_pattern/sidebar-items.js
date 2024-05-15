@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["search_file_names_by_pattern"]};
